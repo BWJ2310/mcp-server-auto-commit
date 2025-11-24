@@ -8,7 +8,7 @@ This implementation provides a Git changes analyzer that generates commit messag
 
 ## Demo
 
-![](./assets/auto_commit_demo_with_ai.gif)
+![](https://github.com/hypermodel-labs/mcp-server-auto-commit/raw/main/assets/auto_commit_demo_with_ai.gif)
 
 ## Features
 
